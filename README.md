@@ -1,7 +1,5 @@
 <img 
   align="right" 
-  height="180" 
-  width="80" 
   src="assets/anime-hello-once.gif"
 />
 <div>
