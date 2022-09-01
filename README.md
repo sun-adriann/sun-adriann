@@ -6,7 +6,7 @@
 />
 <div>
   <h3>Hey there! 👋🏼 I'm Sun.</h3>
-  <h3>I'm a software engineer based in Cebu City, Philippines.</h3>
+  <p>I'm a software engineer based in Cebu City, Philippines.</p>
   <ul>
     <li>💬 Ask me about: Flutter & Dart, PHP & Laravel, JavaScript, C#, Anime</li>
     <li>😄 Pronouns: He/Him</li>
