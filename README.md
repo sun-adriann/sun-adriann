@@ -1,16 +1,10 @@
-### Hi there 👋
-
-<!--
-**sun-adriann/sun-adriann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="display: flex; align-items: center; justify-content: space-between">
+  <div>
+    <h1>Hello there! 👋🏼</h1>
+    <h3>I'm Sun, a software engineer based in Cebu City, Philippines.</h3>
+    <p>I know Flutter & Dart, PHP (mostly Laravel), and a little bit of C# and JavaScript.</p>
+    <br>
+    <p>I'm not active on social media, but you can reach out to me on <a target="_blank" href="https://www.linkedin.com/in/sunwastaken/">LinkedIn</a>.</p>
+  </div>
+  <img src="assets/anime-hello-once.gif" />
+</div>
