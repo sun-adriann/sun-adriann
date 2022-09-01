@@ -13,7 +13,7 @@
       <li>Flutter & Dart</li>
       <li>PHP & Laravel</li>
       <li>JavaScript</li>
-      <li>C#</li>
+      <li>C# & .NET</li>
       <li>Anime</li>
     </ul>
   </p>
