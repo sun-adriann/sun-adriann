@@ -30,7 +30,7 @@
     </ul>
   </p>
   <p>
-    >📫 How to reach me
+    📫 How to reach me
     <ul>
       <li>Email: <a href="mailto:sun.adriann@icloud.com">sun.adriann@icloud.com</a></li>
       <li>LinkedIn: <a href="https://www.linkedin.com/in/sunwastaken/">in/sunwastaken</a></li>
