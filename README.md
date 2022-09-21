@@ -17,11 +17,8 @@
       <li>Anime</li>
     </ul>
   </p>
-    <p>
-    📫 How to reach me
-    <ul>
-      <li>LinkedIn: <a href="https://www.linkedin.com/in/sunwastaken/">in/sunwastaken</a></li>
-    </ul>
+  <p>
+    📫 How to reach me: : <a href="https://www.linkedin.com/in/sunwastaken/">in/sunwastaken</a></li>
   </p>
   <p>
     😄 Pronouns: He/Him
