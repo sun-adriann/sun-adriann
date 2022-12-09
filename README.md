@@ -18,10 +18,7 @@
     </ul>
   </p>
   <p>
-    📫 How to reach me: 
-    <ul>
-      <li><a href="mailto:sunadriann31@gmail.com">sunadriann31@gmail.com</a></li>
-    </ul>
+    📫 How to reach me: <a href="mailto:sunadriann31@gmail.com">sunadriann31@gmail.com</a>
   </p>
   <p>
     😄 Pronouns: He/Him
