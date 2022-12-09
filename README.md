@@ -18,7 +18,10 @@
     </ul>
   </p>
   <p>
-    📫 How to reach me: : <a href="https://www.linkedin.com/in/sunwastaken/">in/sunwastaken</a></li>
+    📫 How to reach me: 
+    <ul>
+      <li><a href="mailto:sunadriann31@gmail.com">sunadriann31@gmail.com</a></li>
+    </ul>
   </p>
   <p>
     😄 Pronouns: He/Him
