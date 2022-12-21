@@ -5,12 +5,12 @@
   src="assets/anime-hello-once.gif"
 />
 <div>
-  <h3>Hey there! 👋🏼</h3>
-  <p>I'm [Sun](https://www.linkedin.com/in/sunwastaken/), a software developer aspiring to become an Expert in the field of **Mobile Development**.</p>
+  <h3>Heya! 👋🏼</h3>
+  <p>I'm <a href="https://www.linkedin.com/in/sunwastaken/">Sun</a>, a software developer aspiring to become an Expert in the field of <b>Mobile Development</b>.</p>
   <ul>
-    <li>🗺️ Living and based in **Cebu, Philippines**</li>
-    <li>👨🏻‍💻 Currently working at **Netsells**</li>
+    <li>🗺️ Living and based in <b>Cebu, Philippines</b></li>
+    <li>👨🏻‍💻 Currently working at <b>Netsells</b></li>
     <li>👍🏼 Anime and Gaming</li>
-    <li>📫 Reach out to me @ [sunadriann31@gmail.com](mailto:sunadriann31@gmail.com)</li>
+    <li>📫 Reach out to me @ <a href="mailto:sunadriann31@gmail.com">sunadriann31@gmail.com</a></li>
   </ul>
 </div>
