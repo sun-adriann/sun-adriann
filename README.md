@@ -6,7 +6,7 @@
 />
 <div>
   <h3>Hey there! 👋🏼 I'm Sun.</h3>
-  <p>I'm a software engineer based in Cebu City, Philippines.</p>
+  <p>I'm a software developer based in Cebu City, Philippines.</p>
   <p>
     💬 Ask me about:
     <ul>
