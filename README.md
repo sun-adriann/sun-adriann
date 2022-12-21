@@ -5,25 +5,12 @@
   src="assets/anime-hello-once.gif"
 />
 <div>
-  <h3>Hey there! 👋🏼 I'm Sun.</h3>
-  <p>I'm a software developer based in Cebu City, Philippines.</p>
-  <p>
-    💬 Ask me about:
-    <ul>
-      <li>Flutter & Dart</li>
-      <li>PHP & Laravel</li>
-      <li>JavaScript</li>
-      <li>C# & .NET</li>
-      <li>Anime</li>
-    </ul>
-  </p>
-  <p>
-    📫 How to reach me: <a href="mailto:sunadriann31@gmail.com">sunadriann31@gmail.com</a>
-  </p>
-  <p>
-    😄 Pronouns: He/Him
-  </p>
-  <p>
-    🤔 I’m looking for help with: The meaning of Life
-  </p>
+  <h3>Hey there! 👋🏼</h3>
+  <p>I'm [Sun](https://www.linkedin.com/in/sunwastaken/), a software developer aspiring to become an Expert in the field of **Mobile Development**.</p>
+  <ul>
+    <li>🗺️ Living and based in **Cebu, Philippines**</li>
+    <li>👨🏻‍💻 Currently working at **Netsells**</li>
+    <li>👍🏼 Anime and Gaming</li>
+    <li>📫 Reach out to me @ [sunadriann31@gmail.com](mailto:sunadriann31@gmail.com)</li>
+  </ul>
 </div>
